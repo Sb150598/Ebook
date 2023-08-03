@@ -1,7 +1,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ page isELIgnored="false"%>
 <div class="container-fuild"
-	style="height:10px; background-color: #303f9f;"></div>
+	style="height:10px; background-color: #743cb5;"></div>
 <div class="container-fuild p-3">
 	<div class="row">
 		<div class="col-md-3 text-success">
@@ -57,7 +57,7 @@
 	<div class="collapse navbar-collapse" id="navbarSupportedContent">
 		<ul class="navbar-nav mr-auto">
 			<li class="nav-item active"><a class="nav-link" href="index.jsp">Home
-					<span class="sr-only">(current)</span>
+					
 			</a></li>
 			<li class="nav-item active"><a class="nav-link" href="all_Recent_book.jsp"><i
 					class="fas fa-book-open"></i> Recent Book</a></li>
@@ -71,9 +71,9 @@
 			<a href="setting.jsp" class="btn btn-light my-2 my-sm-0" type="submit">
 				<i class="fa-sharp fa-solid fa-gear"></i> Setting
 			</a>
-			<button class="btn btn-light my-2 my-sm-0 ml-1" type="submit">
+			<a href="helpline.jsp" class="btn btn-light my-2 my-sm-0 ml-1" type="submit">
 				<i class="fa-solid fa-address-card"></i> Contact Us
-			</button>
+			</a>
 		</form>
 	</div>
 </nav>

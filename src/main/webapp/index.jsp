@@ -108,6 +108,7 @@
 		</div>
 
 	</div>
+	</div>
 	<!-- End Recent Book -->
 	<hr>
 	<!-- Start New Book -->
